@@ -88,15 +88,15 @@ def game_hash
           slam dunks: 2
         },
         {
-          player_name: 'Bismack Biyombo',
-          number: 0,
+          player_name: 'DeSagna Diop',
+          number: 2,
           shoe: 14,
           points: 24,
-          rebounds: ,
-          assists: 1,
-          steals: 2,
-          blocks: 7,
-          slam dunks: 2
+          rebounds: 12,
+          assists: 12,
+          steals: 4,
+          blocks: 5,
+          slam dunks: 5
         },
         ]
     }
