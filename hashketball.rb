@@ -58,7 +58,7 @@ def game_hash
           :steals => 4,
           :blocks => 11,
           :slam_dunks => 1
-        },
+        }
       ]
     }
     away: {
@@ -100,14 +100,14 @@ def game_hash
         },
         {
           :player_name => 'Ben Gordon',
-          :number: 8,
-          :shoe: 15,
-          :points: 33,
-          :rebounds: 3,
-          :assists: 2,
-          :steals: 1,
-          :blocks: 1,
-          :slam_dunks: 0
+          :number => 8,
+          :shoe => 15,
+          :points => 33,
+          :rebounds => 3,
+          :assists => 2,
+          :steals => 1,
+          :blocks=> 1,
+          :slam_dunks => 0
         },
         {
           :player_name => 'Kemba Walker',
@@ -119,7 +119,7 @@ def game_hash
           :steals => 7,
           :blocks => 5,
           :slam_dunks => 12
-        },
+        }
         ]
     }
   }
