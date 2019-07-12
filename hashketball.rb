@@ -99,15 +99,15 @@ def game_hash
           slam dunks: 5
         },
         {
-          player_name: 'DeSagna Diop',
-          number: 2,
-          shoe: 14,
-          points: 24,
-          rebounds: 12,
-          assists: 12,
-          steals: 4,
-          blocks: 5,
-          slam dunks: 5
+          player_name: 'Ben Gordon',
+          number: 8,
+          shoe: 15,
+          points: 33,
+          rebounds: 3,
+          assists: 2,
+          steals: 1,
+          blocks: 1,
+          slam dunks: 0
         },
         ]
     }
