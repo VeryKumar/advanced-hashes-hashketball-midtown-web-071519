@@ -77,11 +77,22 @@ def game_hash
           slam dunks: 2
         },
           {
-          player_name: 'Jeff Adrien',
+          player_name: 'Bismack Biyombo',
           number: 4,
           shoe: 18,
           points: 10,
           rebounds: 1,
+          assists: 1,
+          steals: 2,
+          blocks: 7,
+          slam dunks: 2
+        },
+        {
+          player_name: 'Bismack Biyombo',
+          number: 0,
+          shoe: 14,
+          points: 24,
+          rebounds: ,
           assists: 1,
           steals: 2,
           blocks: 7,
