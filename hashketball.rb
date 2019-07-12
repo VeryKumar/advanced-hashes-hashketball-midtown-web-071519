@@ -1,5 +1,5 @@
 def game_hash
-  hash_ball = {
+  return hash_ball = {
     home: {
       :team_name => 'Brooklyn Nets'
       :colors => ["Black", "White"]
